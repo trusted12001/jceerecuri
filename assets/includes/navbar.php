@@ -74,7 +74,7 @@
                                             <li class="has-children has-children--multilevel-submenu">
                                                 <a href="javascript: void()"><span>Staff</span></a>
                                                 <ul class="submenu">
-                                                    <li><a href="join_our_team.php"><span>Join Our Team</span></a></li>
+                                                    <li><a href="join_our_teams.php"><span>Join Our Team</span></a></li>
                                                     <li><a href="training_and_development.php"><span>Training and Development</span></a></li>
                                                     <li><a href="staff_benefits.php"><span>Staff Benefits</span></a></li>
                                                 </ul>
