@@ -18,7 +18,7 @@
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 class="call-us"><a href="tel:+44 75133048053">+44 7513 304 8053</a></h2>
                                 <div class="contact-us-button mt-20">
-                                    <a href="javascript: void()" class="btn btn--secondary">Contact us</a>
+                                    <a href="contact_us.php" class="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>

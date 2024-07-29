@@ -26,8 +26,7 @@
                                 <div class="cybersecurity-about-text">
                                     <div class="text">At Jceerecruit Limited, we are always on the lookout for dedicated carers, nurses, support workers, home care assistants, and live-in carers. Join our team and make a difference in the lives of our clients.</div>
                                         <div class="button-group-wrap">
-                                            <a href="javascript: void();" class="ht-btn ht-btn-md me-md-3 mb-20">Get a FREE no-obligation quote</a>
-                                            <a href="javascript: void();" class="ht-btn ht-btn-md ht-btn--solid">Contact us to discuss further</a>
+                                            <a href="contact_us.php" class="ht-btn ht-btn-md ht-btn--solid">Contact us to discuss further</a>
                                         </div>
                                     </div>
                                 </div>

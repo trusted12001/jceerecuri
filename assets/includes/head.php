@@ -6,8 +6,7 @@
     <!-- Favicon -->
     <link rel="icon" href="assets/images/logo/play-btn.jpg">
 
-    <!-- CSS
-        ============================================ -->
+    <!-- CSS ============================================ -->
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
@@ -34,8 +33,8 @@
 
     <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from avobe) -->
 
-    <!-- <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-        <link rel="stylesheet" href="assets/css/plugins/plugins.min.css"> -->
+     <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
+        <link rel="stylesheet" href="assets/css/plugins/plugins.min.css"> 
 
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">

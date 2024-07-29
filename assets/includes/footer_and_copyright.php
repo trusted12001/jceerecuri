@@ -20,14 +20,14 @@
                                 <li><a href="healthcare_staffing.php" class="hover-style-link">Healthcare Staffing</a></li>
                                 <li><a href="specialized_care.php" class="hover-style-link">Specialized Care</a></li>
                                 <li><a href="recruitment_process.php" class="hover-style-link">Recruitment Process</a></li>
-                                <li><a href="get_in_touch.php" class="hover-style-link">Get In Touch</a></li>
+                                <li><a href="contact_us.php" class="hover-style-link">Get In Touch</a></li>
                             </ul>
                         </div>
                         
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                             <h6 class="footer-widget__title mb-20">Quick links</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="join_our_team.php" class="hover-style-link">Join Our Team</a></li>
+                                <li><a href="join_our_teams.php" class="hover-style-link">Join Our Team</a></li>
                                 <li><a href="staff_benefits.php" class="hover-style-link">Staff Benefits</a></li>
                                 <li><a href="referral_scheme.php" class="hover-style-link">Referral Scheme</a></li>
                                 <li><a href="safeguarding_policy.php" class="hover-style-link">Safeguarding Policy</a></li>

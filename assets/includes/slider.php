@@ -8,7 +8,7 @@
                                 <h1 class="font-weight--reguler mb-15">Quality Care Through Exceptional <span class="text-color-secondary">Staffing</span></h1>
                                 <p>Transforming Healthcare, One Professional at a Time</p>
                                 <div class="hero-button mt-30">
-                                    <a href="javascript: void()" class="btn btn--secondary">Get In Touch!</a>
+                                    <a href="contact_us.php" class="btn btn--secondary">Get In Touch!</a>
                                 </div>
                             </div>
                         </div>
